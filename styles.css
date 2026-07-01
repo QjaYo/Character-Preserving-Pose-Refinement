@@ -49,7 +49,7 @@ h1 {
   max-width: 1120px;
   margin: 0 auto 0.85rem;
   color: #363636;
-  font-size: clamp(1.85rem, 2.7vw, 2.25rem);
+  font-size: clamp(1.95rem, 2.85vw, 2.4rem);
   font-weight: 700;
   line-height: 1.12;
   overflow-wrap: anywhere;
@@ -58,7 +58,7 @@ h1 {
 h2 {
   margin: 0 0 1.15rem;
   color: #363636;
-  font-size: 2rem;
+  font-size: 1.85rem;
   font-weight: 700;
   line-height: 1.125;
   text-align: center;
@@ -321,14 +321,14 @@ figcaption {
 
   h1 {
     max-width: 310px;
-    font-size: clamp(1.48rem, 7.2vw, 1.72rem);
+    font-size: clamp(1.7rem, 7.2vw, 1.9rem);
     line-height: 1.18;
     word-break: keep-all;
   }
 
   h2 {
     max-width: 310px;
-    font-size: 1.65rem;
+    font-size: 1.55rem;
   }
 
   .subtitle,
